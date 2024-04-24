@@ -14,7 +14,7 @@ Keep track of your score and aim for the highest score.
 
 New Addition:
 
-Now, players have the ability to shoot at ghosts at any moment during gameplay.
+Now, players have the ability to shoot at ghosts at a given moment during gameplay.
 
 Control Scheme:
 
