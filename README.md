@@ -1,4 +1,5 @@
 "# BombJack" 
+
 ![title](https://github.com/inbarbahnof/BombJack/assets/158153825/aa7f463f-8a12-4980-afdf-557734b8915e)
 
 Presenting a reconstruction of the classic BombJack arcade game from 1984, featuring:
